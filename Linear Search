@@ -1,0 +1,26 @@
+# Linear Search
+
+##Problem Statement
+We need to search for an element in a given array and return it in the output.
+
+##Approach
+We will traverse the given array and find if the element we are searching for is present on that index or not.
+
+##Algorithm 
+1. Start
+2. Traverse the given array from index i=0 to i=(n-1).
+3. Check if n = arr[i] then return i.
+4. If the element is not present in the array then return -1.
+5. Exit.
+
+##C++ implementation
+#include<iostream>
+using namespace std;
+
+int linearsearch(int *arr, int n){
+
+
+
+
+int main(){
+int arr[] = {
