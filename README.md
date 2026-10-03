@@ -27,7 +27,7 @@ A structured collection of Data Structures &amp; Algorithms (DSA / ASA) problems
 ## Progress
 | Topic                   | Problems |
 |-------------------------|----------|
-|Arrays                   | 0        |
+|Arrays                   | 2        |
 |Sorting                  | 0        |
 |Vectors                  | 0        |
 |Bit Manipulation         | 0        |
@@ -48,7 +48,7 @@ A structured collection of Data Structures &amp; Algorithms (DSA / ASA) problems
 |Graphs                   | 0        |
 |Dynamic Programming      | 0        |
 |Segment trees            | 0        |
-| **Total**               | **0**    |
+| **Total**               | **2**    |
 
 ## Approach
 For each problem, I aim to document : 
