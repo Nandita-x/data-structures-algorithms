@@ -17,10 +17,19 @@ We will traverse the given array and find if the element we are searching for is
 #include<iostream>
 using namespace std;
 
-int linearsearch(int *arr, int n){
-
-
-
+int linearsearch(int *arr, int n, int key){
+for(int i = 0; i< n; i++){
+if(arr[i] == key){
+  return i;
+  }
+}
+return -1;
+}
 
 int main(){
-int arr[] = {
+int arr[] = {2,4,7,8,10};
+int n = sizeof(arr) / sizeof(int);
+cout << "linearSearch(arr, n, 8) << endl;                                    // output : 3
+cout << "linearSearch(arr, n, 17) << endl;                                   // output : -1
+return 0;
+}
