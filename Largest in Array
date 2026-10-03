@@ -33,7 +33,8 @@ return -1;
 int main(){
 int arr[] = {2,4,7,8,10,7,4};
 int n = sizeof(arr) / sizeof(int);
-cout << "the largrst element in the array is: "<< max;
+int max = largestarr(arr, n);
+cout << "the largest element in the array is: "<< max;
 cout << endl;
 return 0;
 }
