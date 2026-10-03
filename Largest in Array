@@ -31,10 +31,10 @@ return -1;
 }
 
 int main(){
-int arr[] = {2,4,7,8,10,7,4};
+int arr[] = {2,4,7,8,10};
 int n = sizeof(arr) / sizeof(int);
 int max = largestarr(arr, n);
-cout << "the largest element in the array is: "<< max;
+cout << "the largest element in the array is: "<< max;                            // output : 10
 cout << endl;
 return 0;
 }
