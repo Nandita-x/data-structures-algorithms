@@ -27,9 +27,9 @@ A structured collection of Data Structures &amp; Algorithms (DSA / ASA) problems
 ## Progress
 | Topic                   | Problems |
 |-------------------------|----------|
-|Arrays                   |          |
-|Sorting                  |          |
-|Vectors                  |          |
+|Arrays                   | 0        |
+|Sorting                  | 0        |
+|Vectors                  | 0        |
 |Bit Manipulation         | 0        |
 |OOPS                     | 0        |
 |Recursion                | 0        |
