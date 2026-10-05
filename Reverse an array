@@ -1,1 +1,17 @@
+# Reverse an array
 
+##Problem Statement 
+We need to reverse all the elements of array. 
+
+##Approach
+Start the loop backwards (traversal is from the index : n-1) and print the elements of array to index zero.
+
+##Algorithm
+1. Start
+2. Read an array of size 'n' and its elements.
+3. Apply a for loop and traverse the elements from the back i.e. idx = (n-1).
+4. Print all the elements of array to get the required reverse of array.
+5. End.
+
+## C++ Implementation --- done in two ways : 1. By using extra space.
+                                             2. By without using extra spaces. 
