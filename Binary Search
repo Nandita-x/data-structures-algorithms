@@ -1,0 +1,4 @@
+# Binary Search
+
+## Approach
+it only works on sorted array / sorted values. Here, we will break the array into two parts and will find the key we are searching. 
